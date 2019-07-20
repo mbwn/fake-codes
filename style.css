@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(204, 204, 204);
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+}
+.logo{
+    margin-top: 0;
+    width: 100%;
+    height: 40px;
+    background-color: #fff;
+    padding: 10px 50px ;
+}
+.background-img{
+    width: 100%;
+    background-color: rgb(226, 152, 152);
+    height: 600px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+.background-img p{
+    /* margin: auto; */
+    padding: 4.3em;
+    font-size: 40pt;
+    font-weight: 100;
+}
+.team{
+    background-color: rgb(221, 238, 253);
+    height: 400px;
+}
+.team p{
+    padding: 1.2em;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+.testmonials{
+    background-color: rgb(236, 218, 236);
+    height: 400px;
+}
+.testmonials p{
+    padding: 1.2em;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+.contact{
+    background-color: rgb(78, 95, 110);
+    height: 400px;
+}
+.contact p{
+    padding: 1.2em;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100;
+    text-transform: uppercase;
+    color: #fff; 
+}
